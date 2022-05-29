@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\problem-solving",
+    "\\problem-solving\\basic"
   ],
-  "SelectedNode": "\\C:\\Users\\Erick\\Source\\Repos\\HackerRank",
+  "SelectedNode": "\\problem-solving\\basic\\averyBigSum.cs",
   "PreviewInSolutionExplorer": false
 }
