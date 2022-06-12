@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\problem-solving",
-    "\\problem-solving\\basic"
+    "\\problem-solving\\basic",
+    "\\tests"
   ],
-  "SelectedNode": "\\problem-solving\\basic\\compareTriplets.cs",
+  "SelectedNode": "\\problem-solving\\basic\\diagonalDifference.cs",
   "PreviewInSolutionExplorer": false
 }
